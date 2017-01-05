@@ -1,11 +1,27 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: url(Kellogg.jpg);
+  background-image: url(linedpaper.png);
 
   background-repeat: repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+h1{
+  color: black;
+
+}
+
+h4{
+  color: green;
+}
+
+#summary {
+  color: purple;
+}
+
+.skills-and-hobbies {
+  color: purple;
 }
